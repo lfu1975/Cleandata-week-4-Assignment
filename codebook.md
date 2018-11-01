@@ -1,18 +1,18 @@
 Tidy Dataset Description
 
-______________________________________________________________________________________________________________________
-
-
+---------------------------------
 
 Tidy data contains 180 rows and 68 columns.  The data shows the average of each variable based on subject and activity group.
 
 
 
+Subject column is numbered sequentially from 1 to 30. 
+--------------------
 
 
 
 Activitylabel column has 6 types as listed below.
---------------------------------------------------------------------
+----------------
 1. WALKING
 
 2. WALKING_UPSTAIRS
@@ -26,13 +26,10 @@ Activitylabel column has 6 types as listed below.
 
 
 
-Subject column is numbered sequentially from 1 to 30. 
-
-
 
 Measurement
 s in 68 columns
---------------------------------------
+--------------------
 "activitylabel"
 
 "subject"
@@ -171,6 +168,7 @@ s in 68 columns
 
 
 Variable units
+
 
 ------------------
 Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
