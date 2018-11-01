@@ -31,7 +31,7 @@ Subject column is numbered sequentially from 1 to 30.
 
 Measurement
 s in 68 columns
---------------------------------------
+
 "activitylabel"
 
 "subject"
