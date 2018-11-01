@@ -170,5 +170,4 @@ s in 68 columns
 
 Variable units
 
-------------------
 Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
