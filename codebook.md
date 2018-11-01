@@ -2,6 +2,7 @@ Tidy Dataset Description
 
 ---------------------------------
 
+
 Tidy data contains 180 rows and 68 columns.  The data shows the average of each variable based on subject and activity group.
 
 
